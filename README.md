@@ -72,7 +72,6 @@ An end-to-end IoT-based air quality monitoring and forecasting system. The syste
 │   └── rf_model_air_quality_predict_final.ipynb # Model training & evaluation notebook
 ├── src/                                       # Flask backend source code
 │   └── app.py                                 # Production Flask application
-├── .env.example                               # Backend environment variables template
 ├── .gitignore
 └── README.md
 ```
